@@ -1,4 +1,4 @@
-import { generateMetadata } from "@/lib/farcaster-embed";
+import { title, description } from "@/lib/metadata";
 import Login from "@/components/login";
 import Streak from "@/components/streak";
 import HighFive from "@/components/high-five";
